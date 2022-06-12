@@ -33,29 +33,6 @@ resource "azurerm_app_service" "as_linux_demo" {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # resource "azurerm_linux_web_app" "as_linux_demo_new" {
 #   name                = "as-linux-demo-01"
 #   location            = azurerm_resource_group.rg_appservice_linux_demo.location
